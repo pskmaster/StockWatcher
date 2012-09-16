@@ -20,5 +20,9 @@ public class StockWatcherTest extends GWTTestCase {
   public void testSimple() {
     assertTrue(true);
   }
+  
+  public void newMethod() {
+	  System.out.println("this is a git test");
+  }
 
 }
